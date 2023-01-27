@@ -41,5 +41,5 @@ fire detector sensor using arduino microcontroller #smokeDetection #fireDetectio
 ------------------------------------Best Of Luck--------------------------------------------
 # Final Output
 
-
+https://user-images.githubusercontent.com/118722790/215070403-ee70ea10-0ecf-4b9d-80fc-465df3feb78b.mp4
 
