@@ -6,12 +6,12 @@ fire detector sensor using arduino microcontroller #smokeDetection #fireDetectio
 
 # Components : 
 
--> Arduino Uno / Arduino nano
--> Fire Sensor
--> 5v Buzzer
--> Bread Board
--> 3 Jumper Wires(M to M)
--> 3 Jumper Wires(M to F)
+- Arduino Uno / Arduino nano  
+- Fire Sensor  
+- 5v Buzzer  
+- Bread Board  
+- 3 Jumper Wires(M to M)  
+- 3 Jumper Wires(M to F)  
 
 # implementation :
 
@@ -26,13 +26,13 @@ fire detector sensor using arduino microcontroller #smokeDetection #fireDetectio
 
 | step 2:
 
--Create a new project in your Arduino IDE Software..  
--Copy code from this source and paste it to your create project file..  
--builde your project in your arduino software..  
--Ensure that Your device is connected to the internet. If it's not conected then you have to on your internet..  
--If there is  no errors occured then connect your arduino device to your laptop or Computer through the USB cable..  
--Go to tools->Board and select Arduino Uno or which you have..  
--Go to tools->Port and select COM3(Arduino Uno) port number..  
+- Create a new project in your Arduino IDE Software..  
+- Copy code from this source and paste it to your create project file..  
+- builde your project in your arduino software..  
+- Ensure that Your device is connected to the internet. If it's not conected then you have to on your internet..  
+- If there is  no errors occured then connect your arduino device to your laptop or Computer through the USB cable..  
+- Go to tools->Board and select Arduino Uno or which you have..  
+- Go to tools->Port and select COM3(Arduino Uno) port number..  
 
 | step 3:
 - After doing all the above mentioned things upload the project code into your arduino circuite by clicking the RightArrow(Upload) key..
