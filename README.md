@@ -13,4 +13,7 @@ fire detector sensor using arduino microcontroller #smokeDetection #fireDetectio
 -> 3 Jumper Wires(M to M)
 -> 3 Jumper Wires(M to F)
 
-
+# implementation :
+  After the collecting all tools/components create  a circuite mentioned as below diagram..
+  
+  ![fire_detector_diagram](https://user-images.githubusercontent.com/118722790/215060964-6e1756d5-f653-40ff-a537-455eda3dd817.png)
